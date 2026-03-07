@@ -1,4 +1,4 @@
-# 👋 Hello/你好/Bonjour!
+# 👋 Hello/嗨/Bonjour!
 
 <span style="font-size:1.15em">
 
