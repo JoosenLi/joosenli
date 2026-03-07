@@ -1,16 +1,15 @@
-## Hi there 👋
+👋I am a **PhD researcher  in the [MIND Team](https://team.inria.fr/mind/) at CEA / Inria**, based in Paris, and enrolled at **Université Paris-Saclay**. My PhD is supervised by **Dr. Philippe Ciuciu** and **Dr. Chaithya G. R.**, focusing on advanced methods for **functional brain MRI**.
 
-<!--
-**JoosenLi/joosenli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My research centers on **deep learning for accelerated whole-brain, high-resolution functional MRI reconstruction**, with a particular emphasis on combining self-supervised learning and transfer learning with physical modeling of MRI acquisition. My main research interests include:
 
-Here are some ideas to get you started:
+- **Deep learning-based reconstruction** from undersampled medical imaging data
+- **Joint optimization of non-Cartesian trajectories and physics-driven reconstruction**
+- **Foundation models** for brain imaging
+- fMRI based **brain decoding**
+- Future extensions toward **non-invasive brain-computer interfaces**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also passionate about **open-source scientific software** and actively contribute to projects such as **[MRI-NUFFT](https://github.com/mind-inria/mri-nufft)** and **[SNAKE](https://github.com/mind-inria/snake-fmri)**. 
+
+Before starting my PhD in France, I worked on spectral CT and low-field MRI Reconstruction at the Shenzhen Institutes of Advanced Technology (Chinese Academy of Sciences), supervised by Dr. Dong Liang and Dr. Yinsheng Li.
+
+You can find my **[CV](/files/CV-Qiaoxin.pdf)**, my **[LinkedIn](https://www.linkedin.com/in/qiaoxin-li-37a177310/)**, and **[GitHub](https://github.com/joosenli)** here.
