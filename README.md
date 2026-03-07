@@ -4,7 +4,7 @@
 
 I am a **PhD researcher in the [MIND Team](https://github.com/mind-inria) at CEA / Inria**, focusing on advanced methods for **functional brain MRI**.
 
-My research centers on **deep learning for accelerated whole-brain, high-resolution functional MRI reconstruction**, with a particular emphasis on combining **self-supervised learning and transfer learning with physical modeling of MRI acquisition**.
+My research centers on **deep learning for accelerated whole-brain, high-resolution functional MRI reconstruction**, with a particular emphasis on combining **self-supervised learning and transfer learning with physical modeling of MRI reconstruction**.
 
 </span>
 
