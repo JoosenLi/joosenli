@@ -18,7 +18,7 @@ My research centers on **deep learning for accelerated whole-brain, high-resolut
 
 ## 💻 Open Science
 
-I am also **passionate about open-source scientific software** and actively contribute to projects such as **MRI-NUFFT** and **SNAKE**.
+I am also **passionate about open-source scientific software** and actively contribute to projects such as **[MRI-NUFFT](https://github.com/mind-inria/mri-nufft)** and **[SNAKE](https://github.com/mind-inria/snake-fmri)**. 
 
 ## 🔗 Links
 
