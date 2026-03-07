@@ -1,7 +1,5 @@
 # 👋 About Me
 
----
-
 <span style="font-size:1.15em">
 
 I am a **PhD researcher in the MIND Team at CEA / Inria**, based in Paris, and enrolled at **Université Paris-Saclay**. My PhD is supervised by **Dr. Philippe Ciuciu** and **Dr. Chaithya G. R.**, focusing on advanced methods for **functional brain MRI**.
@@ -9,8 +7,6 @@ I am a **PhD researcher in the MIND Team at CEA / Inria**, based in Paris, and e
 My research centers on **deep learning for accelerated whole-brain, high-resolution functional MRI reconstruction**, with a particular emphasis on combining **self-supervised learning and transfer learning with physical modeling of MRI acquisition**.
 
 </span>
-
----
 
 ## 🔬 Research Interests
 
@@ -20,13 +16,9 @@ My research centers on **deep learning for accelerated whole-brain, high-resolut
 - **fMRI-based brain decoding**  
 - Future extensions toward **non-invasive brain–computer interfaces**
 
----
-
 ## 💻 Open Science
 
 I am also **passionate about open-source scientific software** and actively contribute to projects such as **MRI-NUFFT** and **SNAKE**.
-
----
 
 ## 🔗 Links
 
