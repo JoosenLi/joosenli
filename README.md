@@ -22,4 +22,4 @@ I am also **passionate about open-source scientific software** and actively cont
 
 ## 🔗 Links
 
-You can find my **[CV](https://github.com/JoosenLi/joosenli.github.io/blob/main/files/CV-Qiaoxin.pdf)**, my **[LinkedIn](https://www.linkedin.com/in/qiaoxin-li-37a177310/)**, and **[Personal Website](https://joosenli.github.io/)** here.
+You can find my **[CV](https://joosenli.github.io/files/CV-Qiaoxin.pdf)**, my **[LinkedIn](https://www.linkedin.com/in/qiaoxin-li-37a177310/)**, and **[Personal Website](https://joosenli.github.io/)** here.
