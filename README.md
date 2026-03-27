@@ -1,10 +1,10 @@
-# 👋 Hello/你好/Bonjour!
+# 👋 Hi/嗨/Salut!
 
 <span style="font-size:1.15em">
 
-I am a **PhD student in the [MIND Team](https://github.com/mind-inria) at CEA / Inria**, focusing on advanced methods for **functional brain MRI**.
+I am a **PhD student in the [MIND Team](https://github.com/mind-inria) at CEA / Inria**, focusing on advanced methods for **brain functional MRI**.
 
-My research centers on **deep learning for accelerated whole-brain, high-resolution functional MRI reconstruction**, with a particular emphasis on combining **self-supervised learning and transfer learning with physical modeling of MRI reconstruction**.
+My research centers on **deep learning for ultra high field whole-brain, high-resolution functional MRI reconstruction**, with a particular emphasis on combining **self-supervised learning and transfer learning with physical modeling of fMRI reconstruction**.
 
 </span>
 
